@@ -1,3 +1,10 @@
+H8 - Students Grade Calculator :
+https://sites.google.com/hacktiv8.com/h8-students-grade-calculator
+
+https://github.com/FTDS-Assignment-Bay-2/P0-Github-Starter-FTDS-048-HCK-basobox/tree/main
+
+https://github.com/basobox/P0-Github-Starter-FTDS-048-HCK-basobox
+
 # Git & GitHub
 **TLDR**
 - Git is a Version Control System that track & monitor code changes and for collaborative project.
